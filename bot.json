@@ -1,0 +1,29 @@
+{
+  "name": "Helix",
+  "language": "java",
+  "protocol": 2,
+  "entry": "Helix.java",
+  "strategy": "Range-gated spiral pursuit: closes on a spiral that changes hand, backs off when crowded and fires only inside its band.",
+  "supportedModes": [
+    "2d",
+    "3d"
+  ],
+  "resourceModes": [
+    "open",
+    "trusted"
+  ],
+  "supportedRulesets": [
+    "classic",
+    "inertial-2d",
+    "gravity-flat",
+    "gravity-hills",
+    "zero-g"
+  ],
+  "command": [
+    "java",
+    "--enable-native-access=ALL-UNNAMED",
+    "-cp",
+    "build/java:/opt/clunkyard/sdk/bindings/java/clunkyard.jar",
+    "Helix"
+  ]
+}

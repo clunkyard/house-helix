@@ -1,0 +1,63 @@
+{
+  "v": 1,
+  "repository": "clunkyard/house-helix",
+  "source": {
+    "botId": "bdc35b78-4f33-4ff7-81f6-78234347d961",
+    "revisionId": "4d88c037-69ff-4fbb-8bd1-5f848c83dcfb",
+    "manifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d"
+  },
+  "visibleManifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d",
+  "language": "java",
+  "sourceFiles": [
+    {
+      "path": "Helix.java",
+      "mode": 384,
+      "size": 6150,
+      "sha256": "b9a0b6786742b311fef1d94835174a5fad29e30c240c65ad7aa35bc81d42982a"
+    },
+    {
+      "path": "bot.json",
+      "mode": 420,
+      "size": 530,
+      "sha256": "cb8cd58c2dd1762461660a3f29a3434cea430a333e370a84e902301644502bc5"
+    }
+  ],
+  "directories": [],
+  "managed": [
+    {
+      "path": ".clunkyard-source.json",
+      "sha256": "f4128562058d47305558db1539db57d9630d908641732fa423c4c9f5a8f303ae",
+      "mode": 420
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e8b41e5528b2d3a8ae4c5dabfcd32ef50c05fff41de096c3701059b5c68a80db",
+      "mode": 420
+    },
+    {
+      "path": "bot.json",
+      "sha256": "86571223a14d9f06e4aeac5a3a433e69b991a29fef24172d7e8cd16f3e64ae29",
+      "mode": 420
+    },
+    {
+      "path": "Helix.java",
+      "sha256": "b9a0b6786742b311fef1d94835174a5fad29e30c240c65ad7aa35bc81d42982a",
+      "mode": 384
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "652cbd0ba5e21c5b7ee7a52b539cc9087b38b1bfc3ae0baacc6828c8dfdf2e95",
+      "mode": 420
+    },
+    {
+      "path": "Makefile",
+      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "mode": 420
+    },
+    {
+      "path": "README.md",
+      "sha256": "55854204e7a0022a5b713dd8314c3f48060a8693164a0130a34e73706a576d1d",
+      "mode": 420
+    }
+  ]
+}

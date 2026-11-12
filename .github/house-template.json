@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-helix",
   "source": {
     "botId": "bdc35b78-4f33-4ff7-81f6-78234347d961",
-    "revisionId": "4d88c037-69ff-4fbb-8bd1-5f848c83dcfb",
+    "revisionId": "d4e911db-30fe-4f2e-9de4-60b3dbaa4d28",
     "manifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d"
   },
   "visibleManifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "f4128562058d47305558db1539db57d9630d908641732fa423c4c9f5a8f303ae",
+      "sha256": "50e90953b5c6fe026648095ee9647729d0d87b4960b8bd05c5d97aff220408d4",
       "mode": 420
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "path": "Makefile",
-      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "sha256": "56113b1e7b8c900f9222ffed6cfba3382ff4835729e887cab6e75fbf991b4157",
       "mode": 420
     },
     {
       "path": "README.md",
-      "sha256": "55854204e7a0022a5b713dd8314c3f48060a8693164a0130a34e73706a576d1d",
+      "sha256": "c4a489b8b5441b8473f32ee97c3aa883a90702421184468e044237cc9fa658c8",
       "mode": 420
     }
   ]

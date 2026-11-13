@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-helix",
   "source": {
     "botId": "bdc35b78-4f33-4ff7-81f6-78234347d961",
-    "revisionId": "d4e911db-30fe-4f2e-9de4-60b3dbaa4d28",
+    "revisionId": "55de72c5-5d18-41c8-8ba3-5055c42ac0b7",
     "manifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d"
   },
   "visibleManifestHash": "7be9267def0c4f367fb9ee4821bf33f72a1e6263b26307c35ad2553e7c235d3d",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "50e90953b5c6fe026648095ee9647729d0d87b4960b8bd05c5d97aff220408d4",
+      "sha256": "0e853ce8d9033ffd0da1225eab5e564d115f36a0f98dc5f7a350d7442087a96c",
       "mode": 420
     },
     {
